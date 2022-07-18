@@ -1,0 +1,15 @@
+
+Distance from  node 123 to node 55 = 1246 KM
+Path= Iraq Burin--> Ar Rajman--> Majdal BaniFadil--> Tuqu--> Marah Rabah--> An NabiElyas--> Talfit--> An NazlaashSharqiya--> Bardala--> Ein elBeida--> Kardala--> al Asaasa--> Ajja--> Al Kufeir--> Kafr Rai--> Bir alBasha--> Al Mughayyir--> Umm atTut--> Kufeirit--> Birqin--> Jenin--> Khirbet Suruj--> Arrana--> Al Yamun--> Al Araqa--> Wad adDabi--> Wadi Duoq--> Fahma alJadida--> Telfit
+
+Distance from  node 211 to node 103 = 571 KM
+Path= Beit Einun--> Halhul--> Nuba--> Umm alButm--> Marah Rabah--> An NabiElyas--> Talfit--> An NazlaashSharqiya--> Bardala--> Ein elBeida--> Salhab--> Kashda--> Deir alGhusun
+
+Distance from  node 10 to node 20 = 1267 KM
+Path= Beit Qad--> Dhaher alAbed--> Al Hafira--> Anza--> Meithalun--> al Asaasa--> Ajja--> Al Kufeir--> Kafr Rai--> Bir alBasha--> Al Mughayyir--> Umm atTut--> Kufeirit--> Birqin--> Jenin--> Khirbet Suruj--> Arrana--> Al Yamun--> Al Araqa--> Wad adDabi--> Wadi Duoq--> Fahma alJadida--> Telfit--> Al Mutilla--> Ash Shuhada--> Jalbun--> Al Hashimiya
+
+Distance from  node 5 to node 250 = 1522 KM
+Path= At Tayba--> Khirbet AbdallahalYunis--> Qabatiya--> Al Aqaba--> Ath Thaghra--> Ras alFara--> Tammun--> Zeita--> Attil--> Urif--> Arab arRamadinashShamali--> Ras Atiya--> Al Maniya--> Kisan--> Arab arRashayida--> Rafat--> Izbat AbuAdam--> Biddya--> Yasuf--> Mas-ha--> Deir Istiya--> Hamrush--> Deir Samit--> Khallet Edar--> Qla Zeta--> Beit Kahil--> Idhna--> Beit Maqdum--> Beit Einun--> Kafr adDik--> Az Zawiya--> Sair--> Fuqeiqis
+
+Distance from  node 100 to node 200 = 449 KM
+Path= An NazlaalGharbiya--> Iktaba--> Bala--> Khirbet arRasalAhmar--> At Tarem--> Jenin Camp--> Sir--> Khirbet Humsa--> Beit Hasan--> Arab AbuFarda--> Deir Ballut--> Marah Maalla--> Al Manshiya--> Umm Salamuna--> Iskaka
